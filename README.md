@@ -161,4 +161,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 # Deploy To Railway 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/vhXzgb?referralCode=fIPHl7)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/steIjM)
